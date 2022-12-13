@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "deliveroo-clone",
-    "slug": "deliveroo-clone",
+    "name": "fooddeliver-demo-app",
+    "slug": "fooddeliver-demo-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/res-logo.png", 
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/res-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +22,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/res-logo.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
